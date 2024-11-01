@@ -1,0 +1,21 @@
+#yg_pop_dashboard_widget h2{
+	background: url(images/pop-logo.png) no-repeat 4px 6px #ddd;
+	background-size: 24px;
+	padding-left: 32px;
+}
+#dw_frm{
+	background-color: #999;
+	margin: 8px -12px 0;
+	position: relative;
+	top: 13px;
+	padding: 8px 12px;
+	border-top: 1px solid #000;
+	color: #fff;
+}
+#dw_frm .button-primary{
+	margin: 20px auto 6px;
+	width: 180px;
+	display: block;
+	text-align: center;
+}
+#dw_dur,#dw_ptype{font-size: 11px;}
